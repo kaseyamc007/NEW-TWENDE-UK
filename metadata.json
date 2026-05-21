@@ -1,0 +1,6 @@
+{
+  "name": "Twende Zambia UK",
+  "description": "Standing Together in Times of Loss. A non-profit community organization supporting Zambians in the United Kingdom during times of bereavement, assisting with costs and repatriation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
